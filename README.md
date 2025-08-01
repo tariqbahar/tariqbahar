@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tariqbahar&theme=default" alt="tariqbahar" /></a> </p>
 
-- 🔭 I’m currently working on **Entire Thinkers software company**
+- 🔭 I’m currently working on **Manzooify software development company**
 - 👯 I’m looking to collaborate on **Web development **
 - 🤝 I’m looking for help with **Entire Thinkers software company **
-- 🌱 I’m currently learning **Laravel, react**
+- 🌱 I’m currently learning **python, react**
 
 - 📫 How to reach me **tariqbahar143@gmail.com**
 - 📝 I regularly write articles on **Programming skills **
