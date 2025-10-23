@@ -1,5 +1,7 @@
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" alt="decorative divider" />
+</p>
 <h1 align="center">👋 Hi, I'm <b>Tariq Bahar</b></h1>
 <h3 align="center">Full‑Stack Developer • JS / Python / PHP • Next.js & React</h3>
 
