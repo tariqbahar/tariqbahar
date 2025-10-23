@@ -4,6 +4,16 @@ readme = """<p align="center">
   <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" alt="decorative divider" />
 </p>
 
+### 📫 Contact
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" alt="decorative divider" />
+  - Email: **tariqbahar143@gmail.com**
+- X/Twitter: **@tariqbahar.143**
+
+</p>
+"""
+
 <h1 align="center">👋 Hi, I'm <b>Tariq Bahar</b></h1>
 <h3 align="center">Full‑Stack Developer • JS / Python / PHP • Next.js & React</h3>
 
@@ -102,18 +112,3 @@ readme = """<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tariqbahar&theme=github" alt="Activity graph" />
 </p>
 
----
-
-### 📫 Contact
-- Email: **tariqbahar143@gmail.com**
-- X/Twitter: **@tariqbahar.143**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" alt="decorative divider" />
-</p>
-"""
-
-with open("/mnt/data/README.md", "w", encoding="utf-8") as f:
-    f.write(readme)
-
-"/mnt/data/README.md"
