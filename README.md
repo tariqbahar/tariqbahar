@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">Hi 👋, I'm Tariq Bahar</h1>
 
 <h3 align="center">
@@ -150,4 +150,4 @@ Keep this disabled until the public service becomes stable again.
 <p align="center">
   Thanks for visiting my profile.
 </p>
-```
+
