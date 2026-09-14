@@ -1,102 +1,153 @@
+```html
+<h1 align="center">Hi 👋, I'm Tariq Bahar</h1>
+
+<h3 align="center">
+  Full Stack Developer • JavaScript • TypeScript • Python • PHP
+</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" alt="decorative divider" />
+  Building modern, scalable and practical web applications.
 </p>
-<h1 align="center">👋 Hi, I'm <b>Tariq Bahar</b></h1>
-<h3 align="center">Full‑Stack Developer • JS / Python / PHP • Next.js & React</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=tariqbahar">
-    <img src="https://komarev.com/ghpvc/?username=tariqbahar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
   <a href="https://github.com/tariqbahar">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/tariqbahar?style=flat&logo=github" />
+    <img src="https://img.shields.io/github/followers/tariqbahar?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
   </a>
+
+  <img src="https://komarev.com/ghpvc/?username=tariqbahar&label=Profile%20Views&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+
   <a href="mailto:tariqbahar143@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-tariqbahar143%40gmail.com-informational?logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🔭 Currently building at **Mashalify** (software development)
-- 👯 Open to collaborate on **full‑stack web apps**
-- 🤝 Open to partnerships via **Mashalify**
-- 🌱 Learning **Python** & **AI/ML**
-- 📝 I share notes & tips on **programming best practices**
+## 👨‍💻 About Me
 
-### 🔗 Connect
+I'm a full stack developer focused on building reliable, maintainable and user friendly applications.
+
+- 🔭 Currently working on software projects at **Mashalify**
+- 💻 Building full stack web applications
+- 🌱 Expanding my knowledge in **Python, AI and Machine Learning**
+- ⚡ Working with modern frontend and backend technologies
+- 🤝 Open to collaboration on useful and challenging projects
+- 🧠 Interested in clean architecture, automation and scalable systems
+- 📚 Continuously improving my software engineering skills
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
 <p>
-  <a href="https://twitter.com/tariqbahar.143" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://github.com/tariqbahar" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:tariqbahar143@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://fb.com/tariqbahar.522" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,bootstrap,tailwind,redux" alt="Frontend Technologies" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,laravel,django" alt="Backend Technologies" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,arduino" alt="Development Tools" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,bootstrap,tailwind,redux,nodejs,express,python,php,laravel,django,mysql,postgres,mongodb,git,linux,arduino" alt="tech stack icons" />
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=tariqbahar&show_icons=true&hide_border=true&theme=github_dark"
+    alt="Tariq Bahar GitHub Statistics"
+  />
+
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariqbahar&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
+    alt="Most Used Languages"
+  />
 </p>
 
-<!-- Fallback row of icons (kept lightweight and reliable) -->
-<!--
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="36" height="36" alt="PHP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36" height="36" alt="Express"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="36" height="36" alt="Laravel"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="36" height="36" alt="Django"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36" alt="Linux"/>
+<p align="center">
+  <img
+    width="70%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=tariqbahar&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tariqbahar&theme=github-compact&hide_border=true"
+    alt="Tariq Bahar Contribution Graph"
+  />
+</p>
+
+---
+
+<!--
+
+TROPHY SECTION
+
+The public GitHub Profile Trophy service has experienced HTTP errors.
+Keep this disabled until the public service becomes stable again.
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=tariqbahar&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
 -->
 
----
+## 🌐 Connect With Me
 
-### 🏆 Trophies
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tariqbahar&theme=onedark&margin-w=10&margin-h=10" alt="trophies" />
+<p align="center">
+
+  <a href="https://github.com/tariqbahar">
+    <img src="https://img.shields.io/badge/GitHub-Tariq%20Bahar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+
+  <a href="mailto:tariqbahar143@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <a href="https://fb.com/tariqbahar.522">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+
 </p>
 
 ---
 
-### 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tariqbahar&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" alt="Tariq's GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariqbahar&layout=compact&langs_count=8&theme=transparent" alt="Top languages"/>
+  <b>Code. Learn. Build. Improve.</b>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tariqbahar&theme=transparent" alt="GitHub streak"/>
+  Thanks for visiting my profile.
 </p>
-
----
-
-### 📈 Summary Cards
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tariqbahar&theme=2077" height="170" alt="Summary stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tariqbahar&theme=2077" height="170" alt="Most commit language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tariqbahar&theme=2077" height="170" alt="Repos per language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tariqbahar&theme=2077" height="170" alt="Productive time" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tariqbahar&theme=2077" height="170" alt="Profile details" />
-</p>
-
----
-
-### ⚡ Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tariqbahar&theme=github" alt="Activity graph" />
-</p>
-
+```
